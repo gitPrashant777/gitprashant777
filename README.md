@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Fluuter,Kotlin,Xml,Firebase**
+- 💬 Ask me about **Flutter,Kotlin,Xml,Firebase**
 
 - 📫 How to reach me **prashantkumar.official957@gmail.com**
 
