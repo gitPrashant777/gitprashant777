@@ -10,7 +10,7 @@
 - 🚀 Currently working on **Flutter & Android Development**.
 - 🎵 Exploring **Jetpack Compose**, **Firebase**, and **APIs**.
 - 💡 Passionate about **Mobile App Development** and **Tech Innovation**.
-- 🏆 4⭐ & 5⭐ coder on **LeetCode**.
+- 🏆 Finalist in Many Hackathons.
 - 📫 Reach me at **[prashantkumar.official957@gmail.com](mailto:prashantkumar.official957@gmail.com)**.
 - 📄 Check out my Resume: [Google Drive](https://drive.google.com/file/d/1S83xejw6Tm5da3WW3fdls4LYB5PC2IT8/view?usp=drive_link)
 
@@ -51,6 +51,6 @@
 <p align="left">
 <a href="https://github.com/prashantkumar957" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://instagram.com/prashantkumar.957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prashantkumar957" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashantkumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prashantk957" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashantkumar957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
