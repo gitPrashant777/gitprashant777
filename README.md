@@ -1,68 +1,83 @@
+<!-- Profile Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prashant%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <h1 align="center">🚀 Hey there, I'm Prashant Kumar! 👋</h1>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Tech+Enthusiast;Hackathon+Finalist+%7C+Problem+Solver;Flutter+%7C+Kotlin+%7C+Firebase+%7C+Jetpack+Compose;Building+Innovative+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Tech+Enthusiast;Hackathon+Finalist+%7C+Problem+Solver;Flutter+%7C+Kotlin+%7C+Firebase+%7C+Jetpack+Compose;Always+Learning+New+Tech!">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently focused on **Flutter & Android Development**.
-- 🎨 Exploring **Jetpack Compose**, **Firebase**, and **APIs**.
-- 💡 Passionate about **Tech Innovation** and **Mobile App Development**.
-- 🏆 Hackathon Finalist | Problem-Solving Enthusiast.
-- 📫 Reach me at **[prashantkumar.official957@gmail.com](mailto:prashantkumar.official957@gmail.com)**.
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1S83xejw6Tm5da3WW3fdls4LYB5PC2IT8/view?usp=drive_link)**.
+## 🚀 About Me  
+
+- 🔭 Currently focused on **Flutter & Android Development**  
+- 🎨 Exploring **Jetpack Compose**, **Firebase**, and **REST APIs**  
+- 💡 Passionate about **Tech Innovation** & **Problem Solving**  
+- 🏆 Hackathon Finalist | 4⭐ & 5⭐ **LeetCode Coder**  
+- 📫 Reach me at **[prashantkumar.official957@gmail.com](mailto:prashantkumar.official957@gmail.com)**  
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1S83xejw6Tm5da3WW3fdls4LYB5PC2IT8/view?usp=drive_link)**  
 
 ---
 
-## 🔥 Tech Stack
-### **Languages & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+## 🧰 Tech Stack  
 
-### **Tools & Services**
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+**📱 Mobile & Frameworks**  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)  
 
----
+**⚙️ Backend & Databases**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prashantkumar957&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumar957&theme=tokyonight" />
-</p>
+**🛠️ Tools**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar957&layout=compact&theme=tokyonight" />
-</p>
+**💻 Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
 
-## 🌍 Connect with Me
+## 📈 GitHub Analytics  
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashantkumar957&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumar957&theme=radical&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumar957&theme=react-dark&hide_border=true&area=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar957&layout=compact&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=prashantkumar957&theme=radical&no-frame=true&column=4&margin-w=15" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph  
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />  
+
+---
+
+## 🌍 Connect with Me  
+
 <p align="center">
-  <a href="https://github.com/prashantkumar957" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/prashantkumar.957" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/prashantk957" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/prashantkumar957" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-</p>
+<a href="https://github.com/prashantkumar957" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/prashantkumar.957" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/prashantk957" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/prashantkumar957" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**💙 Thank you for visiting my profile!**  
+⭐ **Star some repositories if you find them helpful!**
