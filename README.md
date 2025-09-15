@@ -47,14 +47,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashantkumar957&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumar957&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashantkumar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkuma&theme=radical&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumar957&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumar&theme=react-dark&hide_border=true&area=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar957&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar&layout=compact&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=prashantkumar957&theme=radical&no-frame=true&column=4&margin-w=15" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=prashantkumar&theme=radical&no-frame=true&column=4&margin-w=15" />
 
 </div>
 
@@ -65,14 +65,6 @@
 
 ---
 
-## 🌍 Connect with Me  
-
-<p align="center">
-<a href="https://github.com/prashantkumar957" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/prashantkumar.957" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/prashantk957" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://leetcode.com/prashantkumar957" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>  
 
 ---
 
