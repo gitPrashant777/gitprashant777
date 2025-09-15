@@ -16,8 +16,7 @@
 - 🎨 Exploring **Jetpack Compose**, **Firebase**, and **REST APIs**  
 - 💡 Passionate about **Tech Innovation** & **Problem Solving**  
 - 🏆 Hackathon Finalist | 4⭐ & 5⭐ **LeetCode Coder**  
-- 📫 Reach me at **[prashantkumar.official957@gmail.com](mailto:prashantkumar.official957@gmail.com)**  
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1S83xejw6Tm5da3WW3fdls4LYB5PC2IT8/view?usp=drive_link)**  
+
 
 ---
 
