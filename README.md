@@ -12,10 +12,10 @@
 
 ## 🚀 About Me  
 
-- 🔭 Currently focused on **Flutter & Android Development**  
-- 🎨 Exploring **Jetpack Compose**, **Firebase**, and **REST APIs**  
+- 🔭 Currently focused on **Flutter , Android Development & JAVASCRIPT HTML CSS**  
+- 🎨 Exploring **Jetpack Compose**, **Firebase**, and **REST APIs** **SpringBoot**.
 - 💡 Passionate about **Tech Innovation** & **Problem Solving**  
-- 🏆 Hackathon Finalist | 4⭐ & 5⭐ **LeetCode Coder**  
+- 🏆 Hackathon Finalist | Leetcode 450+ Questions  
 
 
 ---
@@ -43,22 +43,6 @@
 
 ---
 
-## 📈 GitHub Analytics  
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashantkumar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkuma&theme=radical&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumar&theme=react-dark&hide_border=true&area=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar&layout=compact&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=prashantkumar&theme=radical&no-frame=true&column=4&margin-w=15" />
-
-</div>
-
----
 
 ### 🐍 Contribution Graph  
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />  
